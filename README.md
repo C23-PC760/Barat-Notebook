@@ -1,2 +1,2 @@
 # notebook 
-dataset : https://www.kaggle.com/datasets/alvinbintang/sibi-dataset
+dataset : https://www.kaggle.com/datasets/mlanangafkaar/datasets-lemlitbang-sibi-alphabets
